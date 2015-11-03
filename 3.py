@@ -17,5 +17,5 @@ for key in N:
 for key in N:
 	if N[key] > maxinN:
 		maxinN = N[key]
-		maxofkey = key
-	print(maxinN, maxofkey)
+		maxofkeY = key
+	print(maxinN, maxofkeY)
